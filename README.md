@@ -1,6 +1,6 @@
 # DevOps-Immersion
 
-##Introduction
+## Introduction
 
 Visual Studio Team Services provides a set of cloud-powered
 collaboration tools that work with your existing IDE’s, so your team can
@@ -11,7 +11,7 @@ Services](https://www.visualstudio.com/en-us/docs/setup-admin/team-services/conn
 or by creating one on an [on-premises Team Foundation Server
 (TFS)](https://www.visualstudio.com/en-us/docs/setup-admin/tfs/install/get-started).
 
-###About the MyHealthClinic Project
+### About the MyHealthClinic Project
 
 This HOL helps you to implement the complete end to end DevOps for the
 fictitious doctor practice specialized in offering healthcare preventive care project, named “HealthClinic.biz”. This
@@ -26,14 +26,14 @@ begin with hosting a public website developed in ASP .NET 5 to azure and
 then leverage the services to integrate with our mobile and wearable
 apps built with Xamarin.
 
-####What is DevOps?####
+#### What is DevOps?####
 
 The DevOps is the union of people, process and products to enable
 continuous value to our end users. We would be using Visual Studio Team
 Services to plan, version control, builds and deployments of the
 projects.
 
-###Pre-requisites for the lab###
+### Pre-requisites for the lab###
 
 -   Visual Studio 2015 Update 3. If not installed, please find the link to install <https://msdn.microsoft.com/en-in/library/mt613162.aspx>
 
@@ -59,7 +59,7 @@ projects.
 
     ![](images/resourcegroup.png)
 
-###Modules###
+### Modules###
 
 This lab contains 8 modules including from planning to deployments and
 monitoring on Azure. Below is the list of all modules to try out.
